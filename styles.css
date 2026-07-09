@@ -7,3 +7,11 @@ p {
   color: red;
   font-size: 20px;
 }
+
+.box {
+  direction: row;
+  main-axis: space-between;
+  cross-axis: center;
+  background-color: #eeeeee;
+  padding: 16px;
+}
